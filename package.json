@@ -1,0 +1,17 @@
+{
+  "name": "xiaomi-hack-roms-libraries",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "小咪游戏资源库：ROM、封面与游戏目录",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "sync": "node tools/sync.mjs",
+    "covers:import": "node tools/import-covers.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build:pages": "node tools/build-pages.mjs",
+    "publish": "node tools/publish.mjs"
+  }
+}

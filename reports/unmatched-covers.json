@@ -1,0 +1,20 @@
+[
+  {
+    "rom": "roms/MD/【小咪优化】MD阿斯特博格兄弟_秘籍增值版.md",
+    "title": "阿斯特博格兄弟 秘籍增值版",
+    "queries": [
+      "Astebros"
+    ],
+    "reason": "no-confident-match",
+    "status": "not-found"
+  },
+  {
+    "rom": "roms/MD/【小咪优化】MD阿斯特堡的恶魔_秘籍增值版.md",
+    "title": "阿斯特堡的恶魔 秘籍增值版",
+    "queries": [
+      "Demons of Asteborg"
+    ],
+    "reason": "no-confident-match",
+    "status": "not-found"
+  }
+]

@@ -1,0 +1,13 @@
+.DS_Store
+._*
+node_modules/
+.cache/
+dist/
+.env
+.env.*
+*.log
+*.sav
+*.state
+*.srm
+*.pem
+*.key

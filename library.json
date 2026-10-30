@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "catalog": "games.json",
+  "playerConfig": "player-config.json",
+  "playEnabled": true,
+  "notice": ""
+}

@@ -1,0 +1,9 @@
+{
+  "covers": {
+    "region": "jp",
+    "minMatchScore": 0.9,
+    "timeoutMs": 15000,
+    "retries": 1,
+    "networkRetryAfterMs": 3600000
+  }
+}

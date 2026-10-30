@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "files": {
+    "roms/MD/【小咪优化】MD光之继承者-高清宽屏增值版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1791693607052.345,
+      "sha256": "1ca04661665794c44ef4295c6ee92e95707e2cc3ac7dfe3dcf7f0743f165d906",
+      "id": "md-f7dd367dab9fad42",
+      "gameId": 252904736,
+      "generatedTitle": "光之继承者-高清宽屏增值版",
+      "identitySignature": "6ca09734d842ff6067a7fea35f6c7662bf45a1c6f59126b54859fa1e37ae6530"
+    },
+    "roms/MD/【小咪优化】MD光明力量1众神遗产_Alternate_秘籍复刻版.bin": {
+      "size": 6291456,
+      "mtimeMs": 1790887364847.4353,
+      "sha256": "313a9f7f4c1c2e8145d8d07b26bdcc37c03762396ecc2ab09fa6d72e712c71a4",
+      "id": "md-e654b7605c6e5767",
+      "gameId": 1758241152,
+      "generatedTitle": "光明力量1众神遗产 Alternate 秘籍复刻版",
+      "identitySignature": "c02c70aefe8992cc388db7f3f316aba608a8865061663a9b2d88839ef3819aab"
+    },
+    "roms/MD/【小咪优化】MD光明力量2_上帝之战.bin": {
+      "size": 4194304,
+      "mtimeMs": 1662971468000,
+      "sha256": "ee9086bde564dfcf6d082edd297219cf9bd612f50a1390cab444812a2028e0e8",
+      "id": "md-5caa25775fbe6f6d",
+      "gameId": 49065108,
+      "generatedTitle": "光明力量2 上帝之战",
+      "identitySignature": "b9001aa5886383e110219e43a75ac450beafe857f1a496111d83b5770b645eba"
+    },
+    "roms/MD/【小咪优化】MD光明力量2古代封印_意志之路2.2_成长率增益版.bin": {
+      "size": 3342336,
+      "mtimeMs": 1790692976206.2283,
+      "sha256": "f55e2bcebb277a7f3b702c2fae4ef3d347d842b3d5a6460a2989e40a46dca050",
+      "id": "md-0fa4088370bfa36d",
+      "gameId": 1281142276,
+      "generatedTitle": "光明力量2古代封印 意志之路2.2 成长率增益版",
+      "identitySignature": "b9001aa5886383e110219e43a75ac450beafe857f1a496111d83b5770b645eba"
+    },
+    "roms/MD/【小咪优化】MD大航海时代2_意志之路1.9F5+_Gens可玩版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1791335612462.9485,
+      "sha256": "6749b7cb3246e47bf53e37901fd4e366aa645d4a89fbc51ce21a50143c9050c4",
+      "id": "md-0e83b0ee3316a20d",
+      "gameId": 1528032458,
+      "generatedTitle": "大航海时代2 意志之路1.9F5+ Gens可玩版",
+      "identitySignature": "8d4cc6ea916f05ebf34dea8c48f312a103aca2bb50d7ac818c8031b7e0ce27ce"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.0.bin": {
+      "size": 1310720,
+      "mtimeMs": 1791842047654.463,
+      "sha256": "773f05bec852e431430a1d4e735af4bc16fbb71d5869fd9ea9eef7b564774bfd",
+      "id": "md-2d3912798ba5c4af",
+      "gameId": 1288582806,
+      "generatedTitle": "太阁立志传 PRO v1.0",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.1_隐藏类型.bin": {
+      "size": 1310720,
+      "mtimeMs": 1791854942432.2417,
+      "sha256": "49c4e5aa125df0dcec9300bb79622ee80cf9838c9b834392f99c19f774090eae",
+      "id": "md-94b29f6d2e39af86",
+      "gameId": 1962308137,
+      "generatedTitle": "太阁立志传 PRO v1.1 隐藏类型",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.21_成就系统.bin": {
+      "size": 1363560,
+      "mtimeMs": 1792494215585.6492,
+      "sha256": "4c6f7a032b71a0e09dbeeb7b135cc15d3e1487fbf77c024c4eab4e6bdc61350a",
+      "id": "md-c2431e63f9359d12",
+      "gameId": 669842494,
+      "generatedTitle": "太阁立志传 PRO v1.21 成就系统",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.23_界限突破.bin": {
+      "size": 1371446,
+      "mtimeMs": 1792716383154.9277,
+      "sha256": "94e5cac8f94cba66c93eb4e58b58f20a7aed809dcc44918370671de9ade179d9",
+      "id": "md-1ee3569796acd309",
+      "gameId": 17416899,
+      "generatedTitle": "太阁立志传 PRO v1.23 界限突破",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.26_合战试作.bin": {
+      "size": 1409824,
+      "mtimeMs": 1793245456872.004,
+      "sha256": "9186e889830da5bbe907cf2b8a4fc6e89f8b856e40860a67835a352328857d16",
+      "id": "md-9fa072198f6ce2a3",
+      "gameId": 198676243,
+      "generatedTitle": "太阁立志传 PRO v1.26 合战试作",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.30_剑圣之路.bin": {
+      "size": 1409824,
+      "mtimeMs": 1793245456872.004,
+      "sha256": "9186e889830da5bbe907cf2b8a4fc6e89f8b856e40860a67835a352328857d16",
+      "id": "md-c53e922f5af14df8",
+      "gameId": 1365777517,
+      "generatedTitle": "太阁立志传 PRO v1.30 剑圣之路",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.6_单挑优化.bin": {
+      "size": 1360772,
+      "mtimeMs": 1791947010997.6616,
+      "sha256": "a55b7917dced99208b017c1e58479ea7eb1d752b23a2dde7f01dc3f61a4e0182",
+      "id": "md-934e16cd07a89f21",
+      "gameId": 593309370,
+      "generatedTitle": "太阁立志传 PRO v1.6 单挑优化",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传_PRO_v1.9_出事他家.bin": {
+      "size": 1360772,
+      "mtimeMs": 1792170765260.9067,
+      "sha256": "9bd6d97cacf5896a3a677bc9c663404dd0467668ae91ad8f152f08acf7a63179",
+      "id": "md-ac9865e86deba5f2",
+      "gameId": 319518200,
+      "generatedTitle": "太阁立志传 PRO v1.9 出事他家",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD太阁立志传1_8类型直选版.bin": {
+      "size": 1310720,
+      "mtimeMs": 1790157250835.034,
+      "sha256": "1914e94a23d54d6e6e797d5d97ebd17fb8d5017f6a75d9b89e656590ffbe4975",
+      "id": "md-bcd45d9e5a9c3421",
+      "gameId": 937904318,
+      "generatedTitle": "太阁立志传1 8类型直选版",
+      "identitySignature": "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059"
+    },
+    "roms/MD/【小咪优化】MD怒之铁拳2_忍者神龟专家增值版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1791498632190.9104,
+      "sha256": "ceef6874e6b0ac482e73d8ac2d156de8efe80b2730da121872326135b470921c",
+      "id": "md-6c28ff87430b9f01",
+      "gameId": 1951029439,
+      "generatedTitle": "怒之铁拳2 忍者神龟专家增值版",
+      "identitySignature": "6aeb6414f1ec89f05f8dbc31eded735423b292bb740580b9baf69398ff598859"
+    },
+    "roms/MD/【小咪优化】MD斗技王_特殊名字全装备版.bin": {
+      "size": 1048576,
+      "mtimeMs": 1790328512871.4614,
+      "sha256": "b1b81bacacaef468e8fae61b2247e9f78be17d15bcdac51e84390b6538389b53",
+      "id": "md-a30b1ed21c4351aa",
+      "gameId": 53355452,
+      "generatedTitle": "斗技王 特殊名字全装备版",
+      "identitySignature": "d8142c57d4722ceda6c090a59ae3935114af641f7002b2ed547e6cbf87199e08"
+    },
+    "roms/MD/【小咪优化】MD梦幻之星4_意志之路v2.2b_隐藏增益版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1790878916171.1433,
+      "sha256": "9ff46baf17478074bee84807cee10d94998354dcb285b71c6c7bc6406a925183",
+      "id": "md-f326ccbe909a54cb",
+      "gameId": 1312353892,
+      "generatedTitle": "梦幻之星4 意志之路v2.2b 隐藏增益版",
+      "identitySignature": "8ecc116603b12105244acfd82431e1c2311ee709d0cdc05832e4e2182817c6dd"
+    },
+    "roms/MD/【小咪优化】MD梦幻模拟战2-帝国之路·暗灭·专家增值版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1791375936466.9673,
+      "sha256": "23cf7e0799e4916b3dddbbd32154829279b8f53d6f432c06bb0e289dd8c8b6c2",
+      "id": "md-89a815746e596706",
+      "gameId": 101194150,
+      "generatedTitle": "梦幻模拟战2-帝国之路·暗灭·专家增值版",
+      "identitySignature": "977d2b6762357257d1287701387794771594d4856659aed97977138baca1d81d"
+    },
+    "roms/MD/【小咪优化】MD梦幻模拟战2-狮子骑士崛起·一周目PLUS增值版.bin": {
+      "size": 4194304,
+      "mtimeMs": 1792635199454.5427,
+      "sha256": "9e60d4cc070284e128c0cc53d4745d5c8e6ae54409b932d59f776c80645dde3d",
+      "id": "md-8cec5d4635cf5648",
+      "gameId": 1832323952,
+      "generatedTitle": "梦幻模拟战2-狮子骑士崛起·一周目PLUS增值版",
+      "identitySignature": "977d2b6762357257d1287701387794771594d4856659aed97977138baca1d81d"
+    },
+    "roms/MD/【小咪优化】MD阿斯特博格兄弟_秘籍增值版.md": {
+      "size": 15466496,
+      "mtimeMs": 1791111353783.4214,
+      "sha256": "04945e1167ec882bd939a1fad52661e65c96f9633c8d642bb24fcc6c84c4c163",
+      "id": "md-e5a92274e3f81652",
+      "gameId": 1381391638,
+      "generatedTitle": "阿斯特博格兄弟 秘籍增值版",
+      "identitySignature": "6b7dff2414ae0c259dc795e03b9289a77f17b42b003f3cc533bb38d3ee815fc6"
+    },
+    "roms/MD/【小咪优化】MD阿斯特堡的恶魔_秘籍增值版.md": {
+      "size": 15466496,
+      "mtimeMs": 1791003158586.9624,
+      "sha256": "ba09359f798ff923a2dd88200aeeabf28874129ad33cf0d05b74245fdd90c109",
+      "id": "md-d633454e49ca4590",
+      "gameId": 1315380859,
+      "generatedTitle": "阿斯特堡的恶魔 秘籍增值版",
+      "identitySignature": "6747df2aebac6482121be364e73a6939f241a765320574ec1a8a17f56fc796d7"
+    }
+  },
+  "identities": {
+    "6ca09734d842ff6067a7fea35f6c7662bf45a1c6f59126b54859fa1e37ae6530": {
+      "status": "matched",
+      "cover": "covers/MD/story-of-thor-the-hikari-o-tsugumono-a4490ba0/boxart-c25fa450e9934155.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Story of Thor, The - Hikari o Tsugumono (Japan)",
+        "confidence": 1,
+        "query": "Story of Thor, The - Hikari o Tsugumono",
+        "identity": "builtin-identity",
+        "identityQuery": "Story of Thor, The - Hikari o Tsugumono"
+      }
+    },
+    "c02c70aefe8992cc388db7f3f316aba608a8865061663a9b2d88839ef3819aab": {
+      "status": "matched",
+      "cover": "covers/MD/shining-force-kamigami-no-isan-015ecb88/boxart-12acb8a4814a8153.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)",
+        "confidence": 1,
+        "query": "Shining Force - Kamigami no Isan",
+        "identity": "builtin-identity",
+        "identityQuery": "Shining Force - Kamigami no Isan"
+      }
+    },
+    "b9001aa5886383e110219e43a75ac450beafe857f1a496111d83b5770b645eba": {
+      "status": "matched",
+      "cover": "covers/MD/shining-force-ii-inishie-no-fuuin-638f9492/boxart-83a510224018f8e6.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Shining Force II - Inishie no Fuuin (Japan) (Switch Online)",
+        "confidence": 1,
+        "query": "Shining Force II - Inishie no Fuuin",
+        "identity": "builtin-identity",
+        "identityQuery": "Shining Force II - Inishie no Fuuin"
+      }
+    },
+    "8d4cc6ea916f05ebf34dea8c48f312a103aca2bb50d7ac818c8031b7e0ce27ce": {
+      "status": "matched",
+      "cover": "covers/MD/daikoukai-jidai-ii-b41506a2/boxart-f81f5666156aba11.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Daikoukai Jidai II (Japan)",
+        "confidence": 1,
+        "query": "Daikoukai Jidai II",
+        "identity": "builtin-identity",
+        "identityQuery": "Daikoukai Jidai II"
+      }
+    },
+    "b2b00cee49aa924cece834842551a27a688ce41209e03a4f2579fafc72294059": {
+      "status": "matched",
+      "cover": "covers/MD/taikou-risshiden-09755782/boxart-1997e7a5c98bec9b.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Taikou Risshiden (Japan)",
+        "confidence": 1,
+        "query": "Taikou Risshiden",
+        "identity": "builtin-identity",
+        "identityQuery": "Taikou Risshiden"
+      }
+    },
+    "6aeb6414f1ec89f05f8dbc31eded735423b292bb740580b9baf69398ff598859": {
+      "status": "matched",
+      "cover": "covers/MD/bare-knuckle-ii-shitou-e-no-requiem-streets-of-rage-ii-7e849898/boxart-f20539352aa33f7a.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)",
+        "confidence": 1,
+        "query": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II",
+        "identity": "builtin-identity",
+        "identityQuery": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II"
+      }
+    },
+    "d8142c57d4722ceda6c090a59ae3935114af641f7002b2ed547e6cbf87199e08": {
+      "status": "matched",
+      "cover": "covers/MD/tougiou-king-colossus-1a0c8eba/boxart-d3eccb6d0cd55ca7.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Tougiou King Colossus (Japan)",
+        "confidence": 1,
+        "query": "Tougiou King Colossus",
+        "identity": "builtin-identity",
+        "identityQuery": "Tougiou King Colossus"
+      }
+    },
+    "8ecc116603b12105244acfd82431e1c2311ee709d0cdc05832e4e2182817c6dd": {
+      "status": "matched",
+      "cover": "covers/MD/phantasy-star-iv-4d43d8ea/boxart-ff56be8b397fe4c5.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Phantasy Star IV (Europe)",
+        "confidence": 1,
+        "query": "Phantasy Star IV",
+        "identity": "builtin-identity",
+        "identityQuery": "Phantasy Star IV"
+      }
+    },
+    "977d2b6762357257d1287701387794771594d4856659aed97977138baca1d81d": {
+      "status": "matched",
+      "cover": "covers/MD/langrisser-ii-f215ead7/boxart-a2d6687b54511a2f.png",
+      "coverSource": {
+        "provider": "libretro",
+        "matchedTitle": "Langrisser II (Japan)",
+        "confidence": 1,
+        "query": "Langrisser II",
+        "identity": "builtin-identity",
+        "identityQuery": "Langrisser II"
+      }
+    },
+    "6b7dff2414ae0c259dc795e03b9289a77f17b42b003f3cc533bb38d3ee815fc6": {
+      "status": "not-found",
+      "reason": "no-confident-match",
+      "checkedAt": 1793333504116
+    },
+    "6747df2aebac6482121be364e73a6939f241a765320574ec1a8a17f56fc796d7": {
+      "status": "not-found",
+      "reason": "no-confident-match",
+      "checkedAt": 1793333504116
+    }
+  }
+}
