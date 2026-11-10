@@ -12,15 +12,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-11T04:40:07.052Z",
     "sha256": "1ca04661665794c44ef4295c6ee92e95707e2cc3ac7dfe3dcf7f0743f165d906",
-    "cover": "covers/MD/story-of-thor-the-hikari-o-tsugumono-a4490ba0/boxart-c25fa450e9934155.png",
+    "cover": "covers/MD/bilibili/BV1QYpG6mEzK.jpg",
     "originalTitle": "光之继承者",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Story of Thor, The - Hikari o Tsugumono (Japan)",
-      "confidence": 1,
-      "query": "Story of Thor, The - Hikari o Tsugumono",
-      "identity": "builtin-identity",
-      "identityQuery": "Story of Thor, The - Hikari o Tsugumono"
+      "provider": "manual"
     }
   },
   {
@@ -36,15 +31,10 @@
     "sizeBytes": 6291456,
     "modifiedAt": "2026-10-01T20:42:44.847Z",
     "sha256": "313a9f7f4c1c2e8145d8d07b26bdcc37c03762396ecc2ab09fa6d72e712c71a4",
-    "cover": "covers/MD/shining-force-kamigami-no-isan-015ecb88/boxart-12acb8a4814a8153.png",
+    "cover": "covers/MD/bilibili/BV1vfaC6eEp1.jpg",
     "originalTitle": "光明力量1",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)",
-      "confidence": 1,
-      "query": "Shining Force - Kamigami no Isan",
-      "identity": "builtin-identity",
-      "identityQuery": "Shining Force - Kamigami no Isan"
+      "provider": "manual"
     }
   },
   {
@@ -84,15 +74,10 @@
     "sizeBytes": 3342336,
     "modifiedAt": "2026-09-29T14:42:56.206Z",
     "sha256": "f55e2bcebb277a7f3b702c2fae4ef3d347d842b3d5a6460a2989e40a46dca050",
-    "cover": "covers/MD/shining-force-ii-inishie-no-fuuin-638f9492/boxart-83a510224018f8e6.png",
+    "cover": "covers/MD/bilibili/BV1z9ap67E2W.jpg",
     "originalTitle": "光明力量2",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Shining Force II - Inishie no Fuuin (Japan) (Switch Online)",
-      "confidence": 1,
-      "query": "Shining Force II - Inishie no Fuuin",
-      "identity": "builtin-identity",
-      "identityQuery": "Shining Force II - Inishie no Fuuin"
+      "provider": "manual"
     }
   },
   {
@@ -108,15 +93,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-07T01:13:32.463Z",
     "sha256": "6749b7cb3246e47bf53e37901fd4e366aa645d4a89fbc51ce21a50143c9050c4",
-    "cover": "covers/MD/daikoukai-jidai-ii-b41506a2/boxart-f81f5666156aba11.png",
+    "cover": "covers/MD/bilibili/BV1NUa46TEtr.jpg",
     "originalTitle": "大航海时代2",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Daikoukai Jidai II (Japan)",
-      "confidence": 1,
-      "query": "Daikoukai Jidai II",
-      "identity": "builtin-identity",
-      "identityQuery": "Daikoukai Jidai II"
+      "provider": "manual"
     }
   },
   {
@@ -324,15 +304,10 @@
     "sizeBytes": 1310720,
     "modifiedAt": "2026-09-23T09:54:10.835Z",
     "sha256": "1914e94a23d54d6e6e797d5d97ebd17fb8d5017f6a75d9b89e656590ffbe4975",
-    "cover": "covers/MD/taikou-risshiden-09755782/boxart-1997e7a5c98bec9b.png",
+    "cover": "covers/MD/bilibili/BV1Z4aM6BEZc.jpg",
     "originalTitle": "太阁立志传",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Taikou Risshiden (Japan)",
-      "confidence": 1,
-      "query": "Taikou Risshiden",
-      "identity": "builtin-identity",
-      "identityQuery": "Taikou Risshiden"
+      "provider": "manual"
     }
   },
   {
@@ -348,15 +323,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-08T22:30:32.191Z",
     "sha256": "ceef6874e6b0ac482e73d8ac2d156de8efe80b2730da121872326135b470921c",
-    "cover": "covers/MD/bare-knuckle-ii-shitou-e-no-requiem-streets-of-rage-ii-7e849898/boxart-f20539352aa33f7a.png",
+    "cover": "covers/MD/bilibili/BV1vhpx64EBs.jpg",
     "originalTitle": "怒之铁拳2",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)",
-      "confidence": 1,
-      "query": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II",
-      "identity": "builtin-identity",
-      "identityQuery": "Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II"
+      "provider": "manual"
     }
   },
   {
@@ -372,15 +342,10 @@
     "sizeBytes": 1048576,
     "modifiedAt": "2026-09-25T09:28:32.871Z",
     "sha256": "b1b81bacacaef468e8fae61b2247e9f78be17d15bcdac51e84390b6538389b53",
-    "cover": "covers/MD/tougiou-king-colossus-1a0c8eba/boxart-d3eccb6d0cd55ca7.png",
+    "cover": "covers/MD/bilibili/BV1L5h26MExa.jpg",
     "originalTitle": "斗技王",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Tougiou King Colossus (Japan)",
-      "confidence": 1,
-      "query": "Tougiou King Colossus",
-      "identity": "builtin-identity",
-      "identityQuery": "Tougiou King Colossus"
+      "provider": "manual"
     }
   },
   {
@@ -396,15 +361,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-01T18:21:56.171Z",
     "sha256": "9ff46baf17478074bee84807cee10d94998354dcb285b71c6c7bc6406a925183",
-    "cover": "covers/MD/phantasy-star-iv-4d43d8ea/boxart-ff56be8b397fe4c5.png",
+    "cover": "covers/MD/bilibili/BV19KaZ6KEB3.jpg",
     "originalTitle": "梦幻之星4",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Phantasy Star IV (Europe)",
-      "confidence": 1,
-      "query": "Phantasy Star IV",
-      "identity": "builtin-identity",
-      "identityQuery": "Phantasy Star IV"
+      "provider": "manual"
     }
   },
   {
@@ -420,15 +380,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-07T12:25:36.467Z",
     "sha256": "23cf7e0799e4916b3dddbbd32154829279b8f53d6f432c06bb0e289dd8c8b6c2",
-    "cover": "covers/MD/langrisser-ii-f215ead7/boxart-a2d6687b54511a2f.png",
+    "cover": "covers/MD/bilibili/BV123h16nEG1.jpg",
     "originalTitle": "梦幻模拟战2",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Langrisser II (Japan)",
-      "confidence": 1,
-      "query": "Langrisser II",
-      "identity": "builtin-identity",
-      "identityQuery": "Langrisser II"
+      "provider": "manual"
     }
   },
   {
@@ -444,15 +399,10 @@
     "sizeBytes": 4194304,
     "modifiedAt": "2026-10-22T02:13:19.455Z",
     "sha256": "9e60d4cc070284e128c0cc53d4745d5c8e6ae54409b932d59f776c80645dde3d",
-    "cover": "covers/MD/langrisser-ii-f215ead7/boxart-a2d6687b54511a2f.png",
+    "cover": "covers/MD/bilibili/BV1EspA6AEG9.jpg",
     "originalTitle": "梦幻模拟战2",
     "coverSource": {
-      "provider": "libretro",
-      "matchedTitle": "Langrisser II (Japan)",
-      "confidence": 1,
-      "query": "Langrisser II",
-      "identity": "builtin-identity",
-      "identityQuery": "Langrisser II"
+      "provider": "manual"
     }
   },
   {
@@ -468,8 +418,11 @@
     "sizeBytes": 15466496,
     "modifiedAt": "2026-10-04T10:55:53.783Z",
     "sha256": "04945e1167ec882bd939a1fad52661e65c96f9633c8d642bb24fcc6c84c4c163",
-    "cover": "",
-    "originalTitle": "阿斯特博格兄弟"
+    "cover": "covers/MD/bilibili/BV1DJHE6ZE3i.jpg",
+    "originalTitle": "阿斯特博格兄弟",
+    "coverSource": {
+      "provider": "manual"
+    }
   },
   {
     "id": "md-d633454e49ca4590",
@@ -484,7 +437,10 @@
     "sizeBytes": 15466496,
     "modifiedAt": "2026-10-03T04:52:38.587Z",
     "sha256": "ba09359f798ff923a2dd88200aeeabf28874129ad33cf0d05b74245fdd90c109",
-    "cover": "",
-    "originalTitle": "阿斯特堡的恶魔"
+    "cover": "covers/MD/bilibili/BV1g1HY6TEda.jpg",
+    "originalTitle": "阿斯特堡的恶魔",
+    "coverSource": {
+      "provider": "manual"
+    }
   }
 ]

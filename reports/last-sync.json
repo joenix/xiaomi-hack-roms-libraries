@@ -7,9 +7,9 @@
   "removed": 0,
   "hashed": 0,
   "downloaded": 0,
-  "reused": 19,
-  "negativeCached": 2,
+  "reused": 9,
+  "negativeCached": 0,
   "networkDeferred": 0,
-  "manual": 0,
-  "unmatched": 2
+  "manual": 12,
+  "unmatched": 0
 }

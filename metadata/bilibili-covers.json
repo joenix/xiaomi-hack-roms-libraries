@@ -1,0 +1,125 @@
+{
+  "seasonUrl": "https://space.bilibili.com/3071448/lists/9222027?type=season",
+  "items": [
+    {
+      "id": "md-8cec5d4635cf5648",
+      "title": "梦幻模拟战2-狮子骑士崛起·一周目PLUS增值版",
+      "cover": "covers/MD/bilibili/BV1EspA6AEG9.jpg",
+      "bvid": "BV1EspA6AEG9",
+      "sourceUrl": "https://www.bilibili.com/video/BV1EspA6AEG9",
+      "imageUrl": "https://i0.hdslb.com/bfs/archive/fd02794d699007daa0c6d0a5888ca916765b409d.jpg",
+      "sha256": "c9f770421537d9d3f03cc1962f30d642af4f1f7557068b0f87b282eefc0c14f9",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-89a815746e596706",
+      "title": "梦幻模拟战2-帝国之路·暗灭·专家增值版",
+      "cover": "covers/MD/bilibili/BV123h16nEG1.jpg",
+      "bvid": "BV123h16nEG1",
+      "sourceUrl": "https://www.bilibili.com/video/BV123h16nEG1",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/aaec879819976557428021e7c034a6904023bbbf.jpg",
+      "sha256": "3507e88ff14e8df95fae862e508fca37d7cb59ee79ac2cb152665f9855b12238",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-f7dd367dab9fad42",
+      "title": "光之继承者-高清宽屏增值版",
+      "cover": "covers/MD/bilibili/BV1QYpG6mEzK.jpg",
+      "bvid": "BV1QYpG6mEzK",
+      "sourceUrl": "https://www.bilibili.com/video/BV1QYpG6mEzK",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/4732fb41706cb4802d6b77491b5f5c16d8a28df2.jpg",
+      "sha256": "5e65d57605657115a7b7f0cc26352a8d77b589a79cbc8c83e4159e48943067a2",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-f326ccbe909a54cb",
+      "title": "梦幻之星4 意志之路v2.2b 隐藏增益版",
+      "cover": "covers/MD/bilibili/BV19KaZ6KEB3.jpg",
+      "bvid": "BV19KaZ6KEB3",
+      "sourceUrl": "https://www.bilibili.com/video/BV19KaZ6KEB3",
+      "imageUrl": "https://i2.hdslb.com/bfs/archive/6b949bd12897222939a362a0badb1fe21df35f3e.jpg",
+      "sha256": "4ea73e4376610c27ffcb1b66b3815a83376329ee1e723600a84438f124f61aab",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-e654b7605c6e5767",
+      "title": "光明力量1众神遗产 Alternate 秘籍复刻版",
+      "cover": "covers/MD/bilibili/BV1vfaC6eEp1.jpg",
+      "bvid": "BV1vfaC6eEp1",
+      "sourceUrl": "https://www.bilibili.com/video/BV1vfaC6eEp1",
+      "imageUrl": "https://i2.hdslb.com/bfs/archive/c67560868cd7bd644b88c9a3875b6501eec95ab6.jpg",
+      "sha256": "d395113ab0088f66dc082795825e621c069814cf9835429e88924af3f6ecfc84",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-0fa4088370bfa36d",
+      "title": "光明力量2古代封印 意志之路2.2 成长率增益版",
+      "cover": "covers/MD/bilibili/BV1z9ap67E2W.jpg",
+      "bvid": "BV1z9ap67E2W",
+      "sourceUrl": "https://www.bilibili.com/video/BV1z9ap67E2W",
+      "imageUrl": "https://i2.hdslb.com/bfs/archive/dcdd21e85221d4a793e4fe3a5fa1d4a491fd3ee6.jpg",
+      "sha256": "78f7aa3c13e99e37fd30682e35576f512bf6d46e1ce7b8f36861609b2b98c523",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-0e83b0ee3316a20d",
+      "title": "大航海时代2 意志之路1.9F5+ Gens可玩版",
+      "cover": "covers/MD/bilibili/BV1NUa46TEtr.jpg",
+      "bvid": "BV1NUa46TEtr",
+      "sourceUrl": "https://www.bilibili.com/video/BV1NUa46TEtr",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/dc2df2c8fbe5402551b317e32cd058f964764cb5.jpg",
+      "sha256": "68d71b07cf5647d11c9e2f5d61495a9bce1b4313b4762c4a7ab03b6a77c8b50a",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-bcd45d9e5a9c3421",
+      "title": "太阁立志传1 8类型直选版",
+      "cover": "covers/MD/bilibili/BV1Z4aM6BEZc.jpg",
+      "bvid": "BV1Z4aM6BEZc",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Z4aM6BEZc",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/7a1999df415c627b2d80833832d9bd4a57670b75.jpg",
+      "sha256": "9f4beb7afa528331865525a998edc25a1d8d7f6012a01b91c16d70392efe8c68",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-d633454e49ca4590",
+      "title": "阿斯特堡的恶魔 秘籍增值版",
+      "cover": "covers/MD/bilibili/BV1g1HY6TEda.jpg",
+      "bvid": "BV1g1HY6TEda",
+      "sourceUrl": "https://www.bilibili.com/video/BV1g1HY6TEda",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/5eeca848fd7f818bad49c43a3bf5b441d21646ca.jpg",
+      "sha256": "a00beb3e58e44866b29be4646b57988a317951a54dcbe4d9ea9111ea85a72c9f",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-e5a92274e3f81652",
+      "title": "阿斯特博格兄弟 秘籍增值版",
+      "cover": "covers/MD/bilibili/BV1DJHE6ZE3i.jpg",
+      "bvid": "BV1DJHE6ZE3i",
+      "sourceUrl": "https://www.bilibili.com/video/BV1DJHE6ZE3i",
+      "imageUrl": "https://i2.hdslb.com/bfs/archive/8c15febe2598105dfeb3812ef253d708bbf51f73.jpg",
+      "sha256": "4c714ce1c8d8a44fb97f3fa79e5f2ffc8ff9db760ded64d617671ce7876dcd00",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-a30b1ed21c4351aa",
+      "title": "斗技王 特殊名字全装备版",
+      "cover": "covers/MD/bilibili/BV1L5h26MExa.jpg",
+      "bvid": "BV1L5h26MExa",
+      "sourceUrl": "https://www.bilibili.com/video/BV1L5h26MExa",
+      "imageUrl": "https://i1.hdslb.com/bfs/archive/9732825abb1b248132850100da0cea773fbd4ff6.jpg",
+      "sha256": "2e6a0b88856114f0acd6c2ba29ef71331a12a9bd4308852810f617f147c22103",
+      "status": "confirmed-normalized-title-match"
+    },
+    {
+      "id": "md-6c28ff87430b9f01",
+      "title": "怒之铁拳2 忍者神龟专家增值版",
+      "cover": "covers/MD/bilibili/BV1vhpx64EBs.jpg",
+      "bvid": "BV1vhpx64EBs",
+      "sourceUrl": "https://www.bilibili.com/video/BV1vhpx64EBs",
+      "imageUrl": "https://i0.hdslb.com/bfs/archive/b1b34d84a0f9509e95a91db09952cd6a4d6bc1fd.jpg",
+      "sha256": "04616722b37153f4514d219cac7b52b351b19f6d224770459bc8cfc54bdb3a13",
+      "status": "confirmed-normalized-title-match"
+    }
+  ]
+}
